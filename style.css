@@ -1,0 +1,86 @@
+header
+{
+	background: rgb(22, 66, 207);
+	font-size: 40px;
+	color: fuchsia;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;	
+}
+
+footer
+{
+	background: rgb(22, 66, 207);
+	font-size: 15px;
+	color:green;
+	font-style: italic;
+	font-weight: bold;
+}
+
+nav
+{
+	background: rgb(22, 66, 207);
+	font-size: 20px;
+	border: solid 4px;
+	color: fuchsia
+}
+
+section
+{
+	background: rgb(22, 66, 207);
+	border: solid 4px;
+	padding: 2em 10em 2em 10em;
+}
+
+a
+{
+	color:black;
+}
+
+a:hover
+{
+	color: fuchsia;
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+
+.accueil
+{	
+	text-align: start;
+	font-size: 35px;
+	color: fuchsia;
+}
+
+
+.classique
+{
+font-size: 25px;
+color: yellow;
+}
+
+.titre
+{
+	font-size: 50px;
+	font-style: bold;
+	text-align: center;
+	color:white;
+}
+
+.tableau
+{
+	border: 1px solid black;
+}
+
+.contenu 
+{
+	text-align: start;
+	font-size: 35px;
+	color:white;
+}
+body 
+{ 
+	background: url(https://safebytes.com/wp-content/uploads/2017/01/hack-code-hacker-computer-background-166263.jpg); 
+}
+
